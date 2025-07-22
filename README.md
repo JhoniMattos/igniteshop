@@ -1,4 +1,4 @@
-<h1 align="center"> Coffee Delivery </h1>
+<h1 align="center"> Ignite Shop </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -6,7 +6,7 @@
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="../../assets/home.png" alt="Fotoblog">
+<img src="./src/assets/home.png" alt="Fotoblog">
 
 ## 🚀 Tecnologias
 
