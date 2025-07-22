@@ -13,7 +13,7 @@ import {
 import Link from "next/link";
 import { CartProvider, useCart } from "@/contexts/CartContext";
 import { useState } from "react";
-import { CartDialog } from "./cartDialog";
+import { CartDialog } from "../components/cartDialog";
 
 globalStyles();
 
