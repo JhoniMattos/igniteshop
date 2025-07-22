@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Ignite Shop
 
-- [Acesse o projeto finalizado, online](https://coffeelistt.netlify.app/).
+
